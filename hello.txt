@@ -1,0 +1,1 @@
+This repository contain the DevOps life cycle plan to develep the food delivery app like Zomato Swiggy or uber eats.
